@@ -60,7 +60,7 @@ python train.py -model best_model.pth -id 0 -save_folder result
 The following three types of images are created.
 ![図1](https://user-images.githubusercontent.com/64674323/162917982-99d21894-5468-4983-a57f-e7df0d4f0f83.png)
 
-To use data augmentation, please run the following commands.
+To use data augmentation, please run the following command.
 ```shell
 python augmentation.py {PATH}
 ```
