@@ -134,7 +134,7 @@ def train():
     criterion = nn.CrossEntropyLoss()
     optimizer = optim.SGD(model.parameters(), lr=0.001)
 
-    # 5. tarining
+    # 5. Training
     best_acc = 0.0
     train_loss_list, valid_loss_list, train_accuracy_list, valid_accuracy_list = [],[],[],[]
     model = model.to(device)
