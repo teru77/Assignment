@@ -17,7 +17,7 @@ conda activate assignment
 
 conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
 (If you are using an OS other than Linux, please select the appropriate version for your OS.Please note that you may need to specify paths and other settings.)
-git clone https://github.com/fudan-zvg/SETR.git
+git clone https://github.com/teru77/Assignment.git
 
 cd Assignment
 pip install -r requirements.txt
