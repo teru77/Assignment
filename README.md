@@ -53,7 +53,7 @@ python train.py -epoch 50 -save_model best_model.pth -id 0 -save_folder result
 ```
 ### test
 ```shell
-python train.py -model best_model.pth -id 0 -save_folder result
+python test.py -model best_model.pth -id 0 -save_folder result
 ```
 
 ## Augmentaion
