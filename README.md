@@ -9,6 +9,7 @@ This is the repository for intern assignments.
 * GPU : Quadro RTX 6000
 * VRAM : 24GB
 * RAM : 32GB
+* Execution environment : Anaconda
 
 ## Set up
 ```shell
